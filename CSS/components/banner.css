@@ -1,0 +1,21 @@
+.banner {
+    background-image: url(../../assets/img/pxArt.png);
+    box-sizing: border-box;
+    height: 790px;
+    background-repeat: round;
+    border-bottom: 10px solid #000;
+    padding-top: 115px;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 568px;
+    margin: auto;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 44px;
+}
