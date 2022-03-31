@@ -1,4 +1,4 @@
-.section {
+.standard-section {
     background-color: #A5BDC2;
     color: #000;
     padding-top: 50px;
@@ -6,11 +6,11 @@
     border-bottom: 10px solid #D96275;
 }
 
-.section .main-title {
+.standard-section .main-title {
     margin-bottom: 60px;
 }
 
-.section._two {
+.standard-section._two {
     background-color: #000;
     border-bottom: 10px solid #A5BDC2;
 }
