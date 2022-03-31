@@ -1,25 +1,22 @@
 .personal-projects {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-}
-
-.personal-projects .projects {
-    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
     width: 280px;
-    height: 288px;
-    background-color: #000;
+    height: 280px;
+    background-color: #D96275 ;
     box-shadow: 10px 10px 0 whitesmoke;
 }
 
-.personal-projects .projects._calc {
-    background-color: #D96275;
-}
-
-.personal-projects .projects._card {
+.personal-projects._card {
     background-color: #A5BDC2;
 }
 
-.personal-projects .projects._ment {
+.personal-projects._ment {
     background-color: #8a4c58;
+}
+
+.personal-projects .logo {
+    width: 245px;
+    height: 254px;
 }
