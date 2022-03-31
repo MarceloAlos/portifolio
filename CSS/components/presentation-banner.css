@@ -1,4 +1,4 @@
-.banner {
+.presentation-banner {
     background-image: url(../../assets/img_personal/pxArt.png);
     box-sizing: border-box;
     height: 789px;
@@ -7,14 +7,14 @@
     padding-top: 115px;
 }
 
-.banner .wrapper {
+.presentation-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 568px;
     margin: auto;
 }
 
-.banner .navigation {
+.presentation-banner .navigation {
     display: flex;
     justify-content: space-around;
     margin-top: 44px;

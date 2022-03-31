@@ -1,4 +1,4 @@
-.box {
+.name-box {
     display: inline-block;
     background-color: #3A4042;
     text-align: center;
@@ -6,6 +6,6 @@
     box-shadow: 10px 10px 0 #000;
 } 
 
-.box .main-title {
+.name-box .main-title {
     margin-bottom: 21px;
 }
