@@ -10,7 +10,10 @@
     margin-bottom: 60px;
 }
 
-.standard-section._two {
+.standard-section._bgBlack {
     background-color: #000;
-    border-bottom: 10px solid #A5BDC2;
+}
+
+.standard-section._bdBlue {
+    border-color: #A5BDC2;
 }
