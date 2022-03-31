@@ -3,8 +3,18 @@
     font-family: "Press Start 2p", sans-serif;
     font-size: 25px;
     color: #000;
+    margin-bottom: 40px;
 }
 
 .skills-tec .icon {
+    width: 85px;
+    height: 90px;
     margin-right: 25px;
 }
+
+.skills-tec .skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
