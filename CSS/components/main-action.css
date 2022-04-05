@@ -1,4 +1,4 @@
-.targeting-action {
+.main-action {
     display: inline-flex;
     align-items: center;
     color: #000000;
@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 
-.targeting-action::before {
+.main-action::before {
     content: "";
     background-color: #D96275;
     width: 10px;
