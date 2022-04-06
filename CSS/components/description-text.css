@@ -1,7 +1,8 @@
-.about-text {
-    margin: 0;
+.description-text {;
+    margin: 0 80px;
     text-indent: 3ch;
     font-weight: 300;
     font-size: 30px;
     line-height: 39px;
+    color: #fff;
 }
